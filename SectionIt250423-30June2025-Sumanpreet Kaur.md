@@ -33,16 +33,21 @@ Error messages and system changes gives helpful clues. These questions ensure to
  2.PCmag- It is Practical and user friendly website perfect for everyday users. 
   - https://www.pcmag.com/how-to/how-to-check-for-memory-problems-in-windows
 
-
-3. Lifewire- This websites helps to how to remove large memory files and how to solve the problems.
+3.Lifewire- This websites helps to how to remove large memory files and how to solve the problems.
    - https://www.lifewire.com/run-diagnostics-on-windows-5214801
 
 **Part-C**
 
 ##3 Sites for General Windows App Troubleshooting##
+
 1. Microsoft Support-It is excellent for developers, it provides detailed guidance and solution for every problem with an easy expalanation.
  - https://support.microsoft.com/en-us/windows/use-a-troubleshooter-with-windows-10-cc3cb85b-91d7-7e56-8ce1-db50b4d18d0b
 2. ComputerWorld: Computerworld is a long-standing publication providing tech insights for IT professionals and decision-makers, focusing on technology selection, usage, and management.
+    - https://www.computerworld.com/article/1611828/windows-11-troubleshooting-get-help-app.html
+
+3.Learn Microsoft- This website gives a detailed technical documentation troubleshooting guides for Windows components, including apps and app packaging.
+  - https://learn.microsoft.com/en-us/windows/win32/appxpkg/troubleshooting
+
 
    **Question2**
 
@@ -62,7 +67,3 @@ Error messages and system changes gives helpful clues. These questions ensure to
   **Expanation**
 All these websites are helpful for users working on windows 11,Provinding a friendly, updated look at file explorer and workflow improvements.
 
- - https://www.computerworld.com/article/1611828/windows-11-troubleshooting-get-help-app.html
-
-3.Learn Microsoft- This website gives a detailed technical documentation troubleshooting guides for Windows components, including apps and app packaging.
-  - https://learn.microsoft.com/en-us/windows/win32/appxpkg/troubleshooting
