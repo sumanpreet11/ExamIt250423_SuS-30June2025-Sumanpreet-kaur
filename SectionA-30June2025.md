@@ -1,4 +1,8 @@
-Part A- ###Questions to Ask The End User:###
+SectionIt250423-30JUNE2025-Sumanpreet Kaur
+
+##PartA##
+
+###Questions to Ask The End User:###
 
 1. What are you trying to do when the issue happened?
 2. When did the problem start?
@@ -7,10 +11,12 @@ Part A- ###Questions to Ask The End User:###
 5. Is the issue happening only on this computer or on others to?
 
 ***Website used:***
+
 https://www.youtube.com/watch?v=n60f3k_-SYI
 https://www.youtube.com/watch?v=Y3aaoDKFMzE
 
-##Explanation:##
+**Explanation:**
+
 When troubleshooting a windows problem asking detailed questions,then find out what the user was doing and when it happened solve the problem.
 Error messages and system changes gives helpful clues. These questions ensure to solve the problem quickly and accurately.
 
